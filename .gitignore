@@ -1,0 +1,20 @@
+# Node & Web Build
+node_modules/
+dist/
+.vite/
+*.log
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ios/Runner.xcworkspace/
+ios/Runner.xcuserdata/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

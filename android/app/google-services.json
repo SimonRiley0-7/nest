@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382057241195",
+    "project_id": "nest-estate-3dcd5",
+    "storage_bucket": "nest-estate-3dcd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382057241195:android:8b7688944e18ed2c002f2e",
+        "android_client_info": {
+          "package_name": "com.example.nest_estate_technology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2R2I8yv6-93ndKXwbollG_uDSPflOuAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

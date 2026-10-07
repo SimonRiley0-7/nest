@@ -1,0 +1,42 @@
+{
+  "name": "nest-estate-technology",
+  "version": "1.0.0",
+  "description": "NEST - Next Generation Estate Technology cross-platform mobile marketplace application.",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratiksha2-M/AI-Powered-Real-Estate-Mobile-App.git"
+  },
+  "keywords": [
+    "nest",
+    "estate-technology",
+    "flutter",
+    "dart",
+    "real-estate",
+    "ai",
+    "valuation",
+    "call-masking",
+    "watermark-docs",
+    "role-switching"
+  ],
+  "author": "Pratiksha M",
+  "license": "MIT",
+  "dependencies": {
+    "lucide-react": "^1.16.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "recharts": "^3.7.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@vitejs/plugin-react": "^5.1.4",
+    "tailwindcss": "^4.1.18",
+    "vite": "^8.3.1"
+  }
+}
